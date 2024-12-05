@@ -1,0 +1,9 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\bin\Debug\cal add sub.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\bin\Debug\cal add sub.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\bin\Debug\cal add sub.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\obj\x86\Debug\cal_add_sub.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\obj\x86\Debug\cal_add_sub.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\obj\x86\Debug\cal add sub.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\obj\x86\Debug\cal add sub.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\obj\x86\Debug\cal add sub.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\cal add sub\cal add sub\obj\x86\Debug\cal add sub.pdb

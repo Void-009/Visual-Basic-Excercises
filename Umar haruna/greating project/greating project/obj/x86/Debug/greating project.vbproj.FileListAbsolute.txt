@@ -1,0 +1,9 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\obj\x86\Debug\greating_project.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\obj\x86\Debug\greating_project.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\obj\x86\Debug\greating project.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\bin\Debug\greating project.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\bin\Debug\greating project.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\bin\Debug\greating project.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\obj\x86\Debug\greating project.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\obj\x86\Debug\greating project.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\greating project\greating project\obj\x86\Debug\greating project.pdb

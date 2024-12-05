@@ -1,0 +1,17 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\bin\Debug\SEMESTER PROJECT.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\bin\Debug\SEMESTER PROJECT.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\bin\Debug\SEMESTER PROJECT.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER_PROJECT.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER_PROJECT.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER PROJECT.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER PROJECT.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER PROJECT.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER PROJECT.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER_PROJECT.Form2.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER_PROJECT.Form3.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER_PROJECT.Form4.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER_PROJECT.Form5.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER_PROJECT.Form6.resources
+E:\visual basic tutorial\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER PROJECT.exe
+E:\visual basic tutorial\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER PROJECT.xml
+E:\visual basic tutorial\Umar haruna\SEMESTER PROJECT\SEMESTER PROJECT\obj\x86\Debug\SEMESTER PROJECT.pdb

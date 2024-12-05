@@ -1,0 +1,18 @@
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\bin\Debug\Binary Convertion of number.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\bin\Debug\Binary Convertion of number.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\bin\Debug\Binary Convertion of number.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary_Convertion_of_number.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary_Convertion_of_number.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.pdb
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.exe
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.xml
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.pdb
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\bin\Debug\Binary Convertion of number.exe
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\bin\Debug\Binary Convertion of number.pdb
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\bin\Debug\Binary Convertion of number.xml
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary_Convertion_of_number.Form1.resources
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary_Convertion_of_number.Resources.resources
+E:\visual basic tutorial\Umar haruna\Binary Convertion of number\Binary Convertion of number\obj\x86\Debug\Binary Convertion of number.vbproj.GenerateResource.Cache

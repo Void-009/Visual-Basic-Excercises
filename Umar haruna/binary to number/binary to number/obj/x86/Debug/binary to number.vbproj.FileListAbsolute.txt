@@ -1,0 +1,18 @@
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\bin\Debug\binary to number.exe
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\bin\Debug\binary to number.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\bin\Debug\binary to number.xml
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\obj\x86\Debug\binary_to_number.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\obj\x86\Debug\binary_to_number.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\obj\x86\Debug\binary to number.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\obj\x86\Debug\binary to number.exe
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\obj\x86\Debug\binary to number.xml
+c:\users\compaq\documents\visual studio 2010\Projects\binary to number\binary to number\obj\x86\Debug\binary to number.pdb
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\obj\x86\Debug\binary to number.exe
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\obj\x86\Debug\binary to number.xml
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\obj\x86\Debug\binary to number.pdb
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\bin\Debug\binary to number.exe
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\bin\Debug\binary to number.pdb
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\bin\Debug\binary to number.xml
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\obj\x86\Debug\binary_to_number.Form1.resources
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\obj\x86\Debug\binary_to_number.Resources.resources
+E:\visual basic tutorial\Umar haruna\binary to number\binary to number\obj\x86\Debug\binary to number.vbproj.GenerateResource.Cache

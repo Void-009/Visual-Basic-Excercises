@@ -1,0 +1,12 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\bin\Debug\Alarm.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\Alarm\Alarm\obj\x86\Debug\Alarm.pdb

@@ -1,0 +1,9 @@
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\bin\Debug\number to binary.exe
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\bin\Debug\number to binary.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\bin\Debug\number to binary.xml
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\obj\x86\Debug\number_to_binary.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\obj\x86\Debug\number_to_binary.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\obj\x86\Debug\number to binary.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\obj\x86\Debug\number to binary.exe
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\obj\x86\Debug\number to binary.xml
+c:\users\compaq\documents\visual studio 2010\Projects\number to binary\number to binary\obj\x86\Debug\number to binary.pdb

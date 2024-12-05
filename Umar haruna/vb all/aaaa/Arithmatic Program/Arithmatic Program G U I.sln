@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Arithmatic Program G U I", "Arithmatic Program G U I\Arithmatic Program G U I.vbproj", "{3DEE9FBF-A583-45FB-9134-3BCF4DEC7BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEE9FBF-A583-45FB-9134-3BCF4DEC7BCC}.Debug|x86.ActiveCfg = Debug|x86
+		{3DEE9FBF-A583-45FB-9134-3BCF4DEC7BCC}.Debug|x86.Build.0 = Debug|x86
+		{3DEE9FBF-A583-45FB-9134-3BCF4DEC7BCC}.Release|x86.ActiveCfg = Release|x86
+		{3DEE9FBF-A583-45FB-9134-3BCF4DEC7BCC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

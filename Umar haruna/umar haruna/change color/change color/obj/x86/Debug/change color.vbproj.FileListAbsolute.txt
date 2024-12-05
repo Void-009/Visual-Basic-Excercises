@@ -1,0 +1,9 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\bin\Debug\change color.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\bin\Debug\change color.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\bin\Debug\change color.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\obj\x86\Debug\change_color.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\obj\x86\Debug\change_color.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\obj\x86\Debug\change color.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\obj\x86\Debug\change color.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\obj\x86\Debug\change color.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change color\change color\obj\x86\Debug\change color.pdb

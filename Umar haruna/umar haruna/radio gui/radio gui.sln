@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "radio gui", "radio gui\radio gui.vbproj", "{1E73B5ED-C505-4DE9-B73C-C59D814767FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E73B5ED-C505-4DE9-B73C-C59D814767FE}.Debug|x86.ActiveCfg = Debug|x86
+		{1E73B5ED-C505-4DE9-B73C-C59D814767FE}.Debug|x86.Build.0 = Debug|x86
+		{1E73B5ED-C505-4DE9-B73C-C59D814767FE}.Release|x86.ActiveCfg = Release|x86
+		{1E73B5ED-C505-4DE9-B73C-C59D814767FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

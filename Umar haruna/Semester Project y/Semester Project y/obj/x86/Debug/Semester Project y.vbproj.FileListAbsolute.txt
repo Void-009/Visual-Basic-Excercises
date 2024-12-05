@@ -1,0 +1,9 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\bin\Debug\Semester Project y.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\bin\Debug\Semester Project y.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\bin\Debug\Semester Project y.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\obj\x86\Debug\Semester_Project_y.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\obj\x86\Debug\Semester_Project_y.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\obj\x86\Debug\Semester Project y.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\obj\x86\Debug\Semester Project y.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\obj\x86\Debug\Semester Project y.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\Semester Project y\Semester Project y\obj\x86\Debug\Semester Project y.pdb

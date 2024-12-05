@@ -1,0 +1,12 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\bin\Debug\charles law.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\bin\Debug\charles law.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\bin\Debug\charles law.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\obj\x86\Debug\charles_law.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\obj\x86\Debug\charles_law.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\obj\x86\Debug\charles law.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\obj\x86\Debug\charles law.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\obj\x86\Debug\charles law.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\charles law\charles law\obj\x86\Debug\charles law.pdb
+E:\visual basic tutorial\Umar haruna\charles law\charles law\obj\x86\Debug\charles law.exe
+E:\visual basic tutorial\Umar haruna\charles law\charles law\obj\x86\Debug\charles law.xml
+E:\visual basic tutorial\Umar haruna\charles law\charles law\obj\x86\Debug\charles law.pdb

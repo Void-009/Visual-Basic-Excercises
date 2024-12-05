@@ -1,0 +1,12 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\bin\Debug\parameter of  project.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\bin\Debug\parameter of  project.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\bin\Debug\parameter of  project.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter_of__project.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter_of__project.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter of  project.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter of  project.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter of  project.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter of  project.pdb
+E:\visual basic tutorial\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter of  project.exe
+E:\visual basic tutorial\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter of  project.xml
+E:\visual basic tutorial\Umar haruna\parameter of  project\parameter of  project\obj\x86\Debug\parameter of  project.pdb

@@ -1,0 +1,30 @@
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.vbproj.GenerateResource.Cache
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.exe
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.pdb
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.xml
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.exe
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.xml
+C:\Users\Sale\Desktop\muttaka\promotion\Arithmatic Program G U I\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.pdb
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.exe
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.xml
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.pdb
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.exe
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.pdb
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.xml
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Compaq\Desktop\a.sadiq\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.exe
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.xml
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.pdb
+C:\Users\Compaq\Desktop\visual assigment\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.exe
+C:\Users\Compaq\Desktop\visual assigment\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.xml
+C:\Users\Compaq\Desktop\visual assigment\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.pdb
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.exe
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.pdb
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\bin\Debug\Arithmatic Program G U I.xml
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Compaq\Desktop\umar haruna\assigment\Arithmatic Program\Arithmatic Program G U I\obj\x86\Debug\Arithmatic Program G U I.vbproj.GenerateResource.Cache

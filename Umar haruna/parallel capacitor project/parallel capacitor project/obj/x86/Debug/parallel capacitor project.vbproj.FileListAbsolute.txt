@@ -1,0 +1,12 @@
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\bin\Debug\parallel capacitor project.exe
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\bin\Debug\parallel capacitor project.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\bin\Debug\parallel capacitor project.xml
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel_capacitor_project.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel_capacitor_project.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel capacitor project.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel capacitor project.exe
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel capacitor project.xml
+c:\users\compaq\documents\visual studio 2010\Projects\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel capacitor project.pdb
+E:\visual basic tutorial\Umar haruna\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel capacitor project.exe
+E:\visual basic tutorial\Umar haruna\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel capacitor project.xml
+E:\visual basic tutorial\Umar haruna\parallel capacitor project\parallel capacitor project\obj\x86\Debug\parallel capacitor project.pdb

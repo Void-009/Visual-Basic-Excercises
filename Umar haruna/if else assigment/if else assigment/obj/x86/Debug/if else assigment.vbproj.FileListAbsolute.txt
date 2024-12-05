@@ -1,0 +1,9 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\bin\Debug\if else assigment.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\bin\Debug\if else assigment.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\bin\Debug\if else assigment.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\obj\x86\Debug\if_else_assigment.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\obj\x86\Debug\if_else_assigment.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\obj\x86\Debug\if else assigment.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\obj\x86\Debug\if else assigment.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\obj\x86\Debug\if else assigment.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\if else assigment\if else assigment\obj\x86\Debug\if else assigment.pdb

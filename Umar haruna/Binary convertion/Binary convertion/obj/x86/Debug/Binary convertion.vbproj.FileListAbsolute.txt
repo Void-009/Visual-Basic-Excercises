@@ -1,0 +1,18 @@
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\bin\Debug\Binary convertion.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\bin\Debug\Binary convertion.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\bin\Debug\Binary convertion.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\obj\x86\Debug\Binary_convertion.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\Binary convertion\Binary convertion\obj\x86\Debug\Binary_convertion.Form1.resources
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.exe
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.xml
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.pdb
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\bin\Debug\Binary convertion.exe
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\bin\Debug\Binary convertion.pdb
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\bin\Debug\Binary convertion.xml
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\obj\x86\Debug\Binary_convertion.Form1.resources
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\obj\x86\Debug\Binary_convertion.Resources.resources
+E:\visual basic tutorial\Umar haruna\Binary convertion\Binary convertion\obj\x86\Debug\Binary convertion.vbproj.GenerateResource.Cache

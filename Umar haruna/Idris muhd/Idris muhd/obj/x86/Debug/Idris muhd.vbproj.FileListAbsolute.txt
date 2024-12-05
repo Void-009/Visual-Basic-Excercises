@@ -1,0 +1,18 @@
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\bin\Debug\Idris muhd.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\bin\Debug\Idris muhd.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\bin\Debug\Idris muhd.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\obj\x86\Debug\Idris_muhd.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\obj\x86\Debug\Idris_muhd.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.pdb
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.exe
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.xml
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.pdb
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\bin\Debug\Idris muhd.exe
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\bin\Debug\Idris muhd.pdb
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\bin\Debug\Idris muhd.xml
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\obj\x86\Debug\Idris_muhd.Form1.resources
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\obj\x86\Debug\Idris_muhd.Resources.resources
+E:\visual basic tutorial\Umar haruna\Idris muhd\Idris muhd\obj\x86\Debug\Idris muhd.vbproj.GenerateResource.Cache

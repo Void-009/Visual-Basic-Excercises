@@ -1,0 +1,30 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\bin\Debug\AVOGADROS PROGRAM.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\bin\Debug\AVOGADROS PROGRAM.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\bin\Debug\AVOGADROS PROGRAM.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.Main.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.P1_f3.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.P2_F4.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.T2_F6.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.T1_F5.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.V1_F1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.V2_F2.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.pdb
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.exe
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.xml
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.pdb
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\bin\Debug\AVOGADROS PROGRAM.exe
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\bin\Debug\AVOGADROS PROGRAM.pdb
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\bin\Debug\AVOGADROS PROGRAM.xml
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.Main.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.Resources.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.P1_f3.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.P2_F4.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.T2_F6.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.T1_F5.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.V1_F1.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS_PROGRAM.V2_F2.resources
+E:\visual basic tutorial\Umar haruna\AVOGADROS PROGRAM\AVOGADROS PROGRAM\obj\x86\Debug\AVOGADROS PROGRAM.vbproj.GenerateResource.Cache

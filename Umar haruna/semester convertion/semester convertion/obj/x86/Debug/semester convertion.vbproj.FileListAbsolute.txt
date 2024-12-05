@@ -1,0 +1,9 @@
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\bin\Debug\semester convertion.exe
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\bin\Debug\semester convertion.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\bin\Debug\semester convertion.xml
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\obj\x86\Debug\semester_convertion.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\obj\x86\Debug\semester_convertion.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\obj\x86\Debug\semester convertion.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\obj\x86\Debug\semester convertion.exe
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\obj\x86\Debug\semester convertion.xml
+c:\users\compaq\documents\visual studio 2010\Projects\semester convertion\semester convertion\obj\x86\Debug\semester convertion.pdb

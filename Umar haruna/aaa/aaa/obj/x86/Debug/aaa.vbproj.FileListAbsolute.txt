@@ -1,0 +1,12 @@
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\bin\Debug\aaa.exe
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\bin\Debug\aaa.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\bin\Debug\aaa.xml
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\obj\x86\Debug\aaa.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\obj\x86\Debug\aaa.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\obj\x86\Debug\aaa.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\obj\x86\Debug\aaa.exe
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\obj\x86\Debug\aaa.xml
+c:\users\compaq\documents\visual studio 2010\Projects\aaa\aaa\obj\x86\Debug\aaa.pdb
+E:\visual basic tutorial\Umar haruna\aaa\aaa\obj\x86\Debug\aaa.exe
+E:\visual basic tutorial\Umar haruna\aaa\aaa\obj\x86\Debug\aaa.xml
+E:\visual basic tutorial\Umar haruna\aaa\aaa\obj\x86\Debug\aaa.pdb

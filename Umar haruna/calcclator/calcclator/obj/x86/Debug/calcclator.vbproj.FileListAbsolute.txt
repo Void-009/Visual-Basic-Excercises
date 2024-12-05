@@ -1,0 +1,9 @@
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\bin\Debug\calcclator.exe
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\bin\Debug\calcclator.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\bin\Debug\calcclator.xml
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\obj\x86\Debug\calcclator.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\obj\x86\Debug\calcclator.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\obj\x86\Debug\calcclator.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\obj\x86\Debug\calcclator.exe
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\obj\x86\Debug\calcclator.xml
+c:\users\compaq\documents\visual studio 2010\Projects\calcclator\calcclator\obj\x86\Debug\calcclator.pdb

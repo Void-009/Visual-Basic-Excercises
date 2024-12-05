@@ -1,0 +1,20 @@
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\bin\Debug\capacitor in series.exe.config
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\bin\Debug\capacitor in series.exe
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\bin\Debug\capacitor in series.pdb
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\bin\Debug\capacitor in series.xml
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\obj\Debug\capacitor_in_series.Form1.resources
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\obj\Debug\capacitor_in_series.Resources.resources
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\obj\Debug\capacitor in series.vbproj.GenerateResource.Cache
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\obj\Debug\capacitor in series.exe
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\obj\Debug\capacitor in series.xml
+c:\users\isah iliyasu isah\documents\visual studio 2013\Projects\capacitor in series\capacitor in series\obj\Debug\capacitor in series.pdb
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\bin\Debug\capacitor in series.exe.config
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\obj\Debug\capacitor in series.exe
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\obj\Debug\capacitor in series.xml
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\obj\Debug\capacitor in series.pdb
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\bin\Debug\capacitor in series.exe
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\bin\Debug\capacitor in series.pdb
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\bin\Debug\capacitor in series.xml
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\obj\Debug\capacitor_in_series.Form1.resources
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\obj\Debug\capacitor_in_series.Resources.resources
+C:\Users\UMAR ADAM\Desktop\faruoq\capacitor in series\capacitor in series\obj\Debug\capacitor in series.vbproj.GenerateResource.Cache

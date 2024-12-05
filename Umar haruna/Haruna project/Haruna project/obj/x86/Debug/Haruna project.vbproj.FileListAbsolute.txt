@@ -1,0 +1,12 @@
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\obj\x86\Debug\Haruna_project.Form1.resources
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\obj\x86\Debug\Haruna_project.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\obj\x86\Debug\Haruna project.vbproj.GenerateResource.Cache
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\bin\Debug\Haruna project.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\bin\Debug\Haruna project.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\bin\Debug\Haruna project.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\obj\x86\Debug\Haruna project.exe
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\obj\x86\Debug\Haruna project.xml
+c:\users\compaq\documents\visual studio 2010\Projects\Haruna project\Haruna project\obj\x86\Debug\Haruna project.pdb
+E:\visual basic tutorial\Umar haruna\Haruna project\Haruna project\obj\x86\Debug\Haruna project.exe
+E:\visual basic tutorial\Umar haruna\Haruna project\Haruna project\obj\x86\Debug\Haruna project.xml
+E:\visual basic tutorial\Umar haruna\Haruna project\Haruna project\obj\x86\Debug\Haruna project.pdb

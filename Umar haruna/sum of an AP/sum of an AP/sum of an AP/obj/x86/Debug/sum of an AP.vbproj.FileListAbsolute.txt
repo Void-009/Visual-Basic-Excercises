@@ -1,0 +1,21 @@
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\bin\Debug\sum of an AP.exe
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\bin\Debug\sum of an AP.pdb
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\bin\Debug\sum of an AP.xml
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\obj\x86\Debug\sum_of_an_AP.Form1.resources
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\obj\x86\Debug\sum_of_an_AP.Resources.resources
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\obj\x86\Debug\sum of an AP.vbproj.GenerateResource.Cache
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\obj\x86\Debug\sum of an AP.exe
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\obj\x86\Debug\sum of an AP.xml
+C:\Users\ISAH\AppData\Local\Temporary Projects\sum of an AP\obj\x86\Debug\sum of an AP.pdb
+C:\Users\ISAH\Desktop\project 2018\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.exe
+C:\Users\ISAH\Desktop\project 2018\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.xml
+C:\Users\ISAH\Desktop\project 2018\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.pdb
+C:\Users\Compaq\Downloads\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.exe
+C:\Users\Compaq\Downloads\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.xml
+C:\Users\Compaq\Downloads\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.pdb
+C:\Users\Compaq\Downloads\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum_of_an_AP.Form1.resources
+C:\Users\Compaq\Downloads\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum_of_an_AP.Resources.resources
+C:\Users\Compaq\Downloads\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.vbproj.GenerateResource.Cache
+E:\visual basic tutorial\Umar haruna\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.exe
+E:\visual basic tutorial\Umar haruna\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.xml
+E:\visual basic tutorial\Umar haruna\sum of an AP\sum of an AP\sum of an AP\obj\x86\Debug\sum of an AP.pdb

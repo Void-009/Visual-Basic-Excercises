@@ -1,0 +1,3 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\nafisa\nafisa\obj\x86\Debug\nafisa.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\nafisa\nafisa\obj\x86\Debug\nafisa.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\nafisa\nafisa\obj\x86\Debug\nafisa.vbproj.GenerateResource.Cache

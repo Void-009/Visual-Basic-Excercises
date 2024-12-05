@@ -1,0 +1,9 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\bin\Debug\radio gui.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\bin\Debug\radio gui.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\bin\Debug\radio gui.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\obj\x86\Debug\radio_gui.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\obj\x86\Debug\radio_gui.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\obj\x86\Debug\radio gui.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\obj\x86\Debug\radio gui.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\obj\x86\Debug\radio gui.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\umar haruna\radio gui\radio gui\obj\x86\Debug\radio gui.pdb

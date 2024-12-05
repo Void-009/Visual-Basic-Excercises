@@ -1,0 +1,9 @@
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\bin\Debug\change picture.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\bin\Debug\change picture.pdb
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\bin\Debug\change picture.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\obj\x86\Debug\change_picture.Form1.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\obj\x86\Debug\change_picture.Resources.resources
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\obj\x86\Debug\change picture.vbproj.GenerateResource.Cache
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\obj\x86\Debug\change picture.exe
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\obj\x86\Debug\change picture.xml
+C:\Users\Compaq\Documents\Visual Studio 2010\Projects\Umar haruna\change picture\change picture\obj\x86\Debug\change picture.pdb
